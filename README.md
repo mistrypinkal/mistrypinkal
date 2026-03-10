@@ -167,6 +167,64 @@ At **CAFU**, I built an AI-powered **Operational Analytics system** that reduced
 ```
 
 ---
+<!--
+## 🎓 Certifications & Credentials
+
+<table width="100%">
+  <tr>
+    <td align="center" valign="top" width="34%">
+      <br/>
+      <img src="https://img.shields.io/badge/🦜%20%20LANGCHAIN%20%20ACADEMY-1C3C3C?style=for-the-badge&logoColor=white&logoWidth=20" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/%20%20Agentic%20%20AI%20%20-1C3C3C?style=for-the-badge&logo=python&logoColor=white" />
+      <br/><br/>
+      <strong>Introduction to LangGraph</strong>
+      <br/><br/>
+      <span>State machines &nbsp;·&nbsp; Tool calling &nbsp;·&nbsp; Agent loops</span>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/%20%20✔%20%20PASSED%20%20-00C853?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/%20%202025%20%20-1C3C3C?style=for-the-badge" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/─────────────────────────-1C3C3C?style=for-the-badge" width="100%"/>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <br/>
+      <img src="https://img.shields.io/badge/🎓%20%20DEEPLEARNING.AI-FF6F00?style=for-the-badge&logoColor=white" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/%20%20Coursera%20%20Verified%20%20-0056D2?style=for-the-badge&logo=coursera&logoColor=white" />
+      <br/><br/>
+      <strong>Generative AI with LLMs</strong>
+      <br/><br/>
+      <span>Prompt engineering &nbsp;·&nbsp; Fine-tuning &nbsp;·&nbsp; RLHF</span>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/%20%20✔%20%20CERTIFIED%20%20-FF6F00?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/%20%202024%20%20-333333?style=for-the-badge" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/─────────────────────────-FF6F00?style=for-the-badge" width="100%"/>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <br/>
+      <img src="https://img.shields.io/badge/💼%20%20LINKEDIN%20%20LEARNING-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/%20%20Leadership%20%20Verified%20%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <br/><br/>
+      <strong>AI for Engineering Leaders</strong>
+      <br/><br/>
+      <span>Strategy &nbsp;·&nbsp; Team AI adoption &nbsp;·&nbsp; ROI framing</span>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/%20%20✔%20%20COMPLETED%20%20-0A66C2?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/%20%202024%20%20-333333?style=for-the-badge" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/─────────────────────────-0A66C2?style=for-the-badge" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+> 💡 **Tip:** Replace each title with your actual certificate name and wrap it in `[Title](your-verification-url)` to make it a clickable credential.
+
+
+---
+-->
 
 ## 📌 Featured Repositories
 
@@ -256,14 +314,13 @@ At **CAFU**, I built an AI-powered **Operational Analytics system** that reduced
 ```yaml
 open_to:
   roles:
-    - Engineering Manager
+    - Software Engineering Manager / Senior Software Engineering Manager
     - Head of Engineering
-    - VP Engineering / Director of Engineering
   domains:
     - AI-native Product Companies
     - Mobile-first Platforms
     - Developer Tooling & Infrastructure
-  location: Dubai 🇦🇪 | Open to Remote | Open to Relocation
+  location: Dubai 🇦🇪 | Open to Remote 
 ```
 
 </div>
@@ -281,9 +338,14 @@ open_to:
 
 <div align="center">
 
-**⭐️ From [mistrypinkal](https://github.com/mistrypinkal) — Building the future with AI, Great teams ship great products. My job is to build both.**
+### 💜 **Thanks for visiting!**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=🤖+Building+the+future+with+AI;Great+teams%2C+ship+great+products+🚀;💼+My+job+is+to+build+both)](https://git.io/typing-svg)
+
 
 ![Made with love in Dubai](https://img.shields.io/badge/Made_with_❤️_in_Dubai-FF6B35?style=for-the-badge)
 ![Last Updated](https://img.shields.io/badge/Last_Updated-March_2026-8B5CF6?style=for-the-badge)
+
+**⭐️ From [mistrypinkal](https://github.com/mistrypinkal) — Let's talk about tech, projects, or exciting opportunities!**
 
 </div>
