@@ -108,6 +108,12 @@ I'm an **Engineering Manager** at the intersection of **platform engineering** a
 ![FAISS](https://img.shields.io/badge/FAISS-3776AB?style=for-the-badge&logo=meta&logoColor=white)
 ![Weaviate](https://img.shields.io/badge/Weaviate-3DADE8?style=for-the-badge&logoColor=white)
 
+**🛰 Observability & Evaluation**
+![LangSmith](https://img.shields.io/badge/LangSmith-000000?style=for-the-badge&logo=langchain&logoColor=white)
+![Helicone](https://img.shields.io/badge/Helicone-22C55E?style=for-the-badge&logo=prometheus&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-4F46E5?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+
 **📱 Mobile Engineering**
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
