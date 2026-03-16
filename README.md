@@ -110,7 +110,7 @@ I'm an **Engineering Manager** at the intersection of **platform engineering** a
 
 **🛰 Observability & Evaluation**
 
-![LangSmith](https://img.shields.io/badge/LangSmith-000000?style=for-the-badge&logo=langchain&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Helicone](https://img.shields.io/badge/Helicone-22C55E?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Langfuse](https://img.shields.io/badge/Langfuse-4F46E5?style=for-the-badge&logo=apachekafka&logoColor=white)
 
