@@ -63,7 +63,7 @@ class PinkalMistry:
     }
 
     currently_exploring = ["MCP Servers", "Agentic DevEx Tooling", "Platform Observability"]
-    open_to             = ["Engineering Manager", "Head of Engineering", "VP Engineering"]
+    open_to             = ["AI Engineering Manager", "Senior Engineering Manager", "Head of Engineering"]
 
     def mission(self):
         return "Ship AI-powered products that move metrics. Lead teams that build with conviction."
@@ -73,9 +73,7 @@ class PinkalMistry:
 
 ## 🤖 About Me
 
-I'm an **Engineering Manager** at the intersection of **mobile platform engineering** and **Generative AI**. Over 12 years I've gone from writing Kotlin on Android to leading multi-team platforms — and today I'm deeply invested in bringing **LLMs, agentic workflows, and AI-powered tooling** into production.
-
-At **CAFU**, I built an AI-powered **Operational Analytics system** that reduced decision-making time by **40%** and unlocked multi-million AED in annual savings. That project solidified my belief: the next decade of engineering leadership is about knowing how to architect *and* ship AI systems — not just manage the people who do.
+I'm an **Engineering Manager** at the intersection of **platform engineering** and **Generative AI**. Over 12 years, I’ve grown from building products hands-on to leading cross-platform teams — and today I'm deeply invested in bringing **LLMs, agentic workflows, and AI-powered tooling** into real-world production systems.
 
 - 🧠 **Agentic AI** — Systems where LLMs plan, call tools, and execute multi-step tasks autonomously
 - 🔗 **RAG Pipelines** — Retrieval-augmented generation for grounded, production-grade AI features
