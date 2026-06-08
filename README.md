@@ -236,7 +236,7 @@ I'm an **Engineering Manager** at the intersection of **platform engineering** a
 <div align="center">
 
 [![Linkedin Post Generator](https://github-readme-stats.vercel.app/api/pin/?username=mistrypinkal&repo=linkedin-post-generator&theme=tokyonight&hide_border=true)](https://github.com/mistrypinkal/linkedin-post-generator)
-[![MVVM Crypto App](https://github-readme-stats.vercel.app/api/pin/?username=appskida&repo=MVVMCryptocurrencyApp&theme=tokyonight&hide_border=true)](https://github.com/appskida/MVVMCryptocurrencyApp)
+[![MVVM Crypto App](https://github-readme-stats.vercel.app/api/pin/?username=appskida&repo=Blog creation&theme=tokyonight&hide_border=true)](https://github.com/mistrypinkal/blog-creation-using-agentic-ai)
 
 <!--
 [![Compose Codelabs](https://github-readme-stats.vercel.app/api/pin/?username=mistrypinkal&repo=JetpackComposeCodelabsSample&theme=tokyonight&hide_border=true)](https://github.com/mistrypinkal/JetpackComposeCodelabsSample)
